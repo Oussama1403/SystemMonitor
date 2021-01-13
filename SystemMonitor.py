@@ -19,7 +19,7 @@ print ('Total number of CPUs :',psutil.cpu_count())
 print(                                                               )
 print ('----------------------Disk Usage ----------------------')
 print(                                                               )
-
+#change to psutil.disk_usage('C:') on windows.
 obj_Disk = psutil.disk_usage('/')
 print ("total Disk  :",obj_Disk.total / (1024.0 ** 3))
 print ("used Disk  :",obj_Disk.used / (1024.0 ** 3))
