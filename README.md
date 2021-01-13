@@ -1,6 +1,13 @@
 # SystemMonitor
 Python script to monitor ram and cpu usage along with disk usage.
 
+### Prerequisites
+
+Install psutil module;a cross-platform lib for process and system monitoring in Python.
+
+```
+pip install psutil
+```
 ## Usage
 In your terminal navigate to the program directory and type:
 ```
