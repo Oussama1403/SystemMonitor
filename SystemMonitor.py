@@ -1,6 +1,5 @@
 import psutil
 import time
-x = psutil.virtual_memory()
 print(                                                               )
 print ('----------------------RAM Utilization ----------------------')
 print(                                                               )
