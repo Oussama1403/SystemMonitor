@@ -11,7 +11,7 @@ pip install psutil
 ## Usage
 In your terminal navigate to the program directory and type:
 ```
-python3 SystemMonitor.py
+python SystemMonitor.py
 ```
 
 ## Contributing
