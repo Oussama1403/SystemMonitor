@@ -3,11 +3,13 @@ Python script to monitor ram and cpu usage along with disk usage.
 
 ### Prerequisites
 
-Install psutil module;a cross-platform lib for process and system monitoring in Python.
-Install Pyqt5 module.
-
+Install psutil module;a cross-platform lib for process and system monitoring in Python and
+Install Pyqt5 module to run the GUI.
 ```
 pip install psutil
+```
+```
+pip install PyQt5
 ```
 ## Usage
 In your terminal navigate to the program directory and type:
