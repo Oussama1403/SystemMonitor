@@ -16,7 +16,7 @@ In your terminal navigate to the program directory and type:
 ```
 python SystemMonitor.py
 ```
-or 
+To run the GUI:
 ```
 python main.py
 ```
