@@ -1,5 +1,6 @@
 import psutil
 import time
+#simple script to output ram , cpu and disk usage info in console. 
 #Cancel Program by pressing Ctrl+C
 print("Ctrl+C to exit.")
 
