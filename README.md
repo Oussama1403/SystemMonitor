@@ -1,6 +1,6 @@
 # SystemMonitor
 Python script to monitor ram and cpu usage along with disk usage.
-[ui](./gui.png?raw=true)
+![GUI](gui.png)
 ### Prerequisites
 
 Install psutil module;a cross-platform lib for process and system monitoring in Python and
