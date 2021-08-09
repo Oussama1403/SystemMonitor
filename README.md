@@ -12,7 +12,8 @@ Python GUI program to monitor ram and cpu usage along with disk usage.
   <img  src="https://img.shields.io/github/issues/Oussama1403/SystemMonitor" />
   <img  src="https://img.shields.io/github/issues-pr/Oussama1403/SystemMonitor" />
 </p>
-## Screenshot
+### Screenshot
+
 ![GUI](gui.png)
 ### Prerequisites
 
