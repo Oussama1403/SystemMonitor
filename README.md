@@ -1,4 +1,17 @@
 # SystemMonitor
+<p>
+  <img  src="https://img.shields.io/github/stars/Oussama1403/SystemMonitor" />
+  <img src="https://img.shields.io/github/contributors/Oussama1403/SystemMonitor" />
+  <img src="https://img.shields.io/github/last-commit/Oussama1403/SystemMonitor" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Oussama1403.SystemMonitor" />
+  <img src="https://img.shields.io/github/languages/count/Oussama1403/SystemMonitor" />
+  <img src="https://img.shields.io/github/languages/top/Oussama1403/SystemMonitor" />
+
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg?color=f64152" />
+  <img  src="https://img.shields.io/github/issues/Oussama1403/SystemMonitor" />
+  <img  src="https://img.shields.io/github/issues-pr/Oussama1403/SystemMonitor" />
+</p>
+
 Python GUI program to monitor ram and cpu usage along with disk usage.
 ![GUI](gui.png)
 ### Prerequisites
