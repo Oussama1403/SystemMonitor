@@ -1,5 +1,5 @@
 # SystemMonitor
-Python GUI program to monitor ram and cpu usage along with disk usage.
+<b>Python GUI program to monitor ram and cpu usage along with disk usage.</b>
 <p>
   <img  src="https://img.shields.io/github/stars/Oussama1403/SystemMonitor" />
   <img src="https://img.shields.io/github/contributors/Oussama1403/SystemMonitor" />
