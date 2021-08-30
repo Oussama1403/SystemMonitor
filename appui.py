@@ -254,7 +254,7 @@ class Ui_MainWindow(object):
         self.label.setText(_translate("MainWindow", "Memory:"))
         self.label_2.setText(_translate("MainWindow", "Cpu:"))
         self.label_3.setText(_translate("MainWindow", "Disk:"))
-        self.label_4.setText(_translate("MainWindow", "System Informations"))
+        self.label_4.setText(_translate("MainWindow", "System Information"))
         self.host.setText(_translate("MainWindow", "Hostname:"))
         self.pltf.setText(_translate("MainWindow", "Platform:"))
         self.pltf_ver.setText(_translate("MainWindow", "Platform-version:"))
