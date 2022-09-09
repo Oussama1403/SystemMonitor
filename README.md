@@ -18,29 +18,29 @@
 ### Prerequisites
 
 install modules:
+
 ```
 pip install -r requirements.txt
-
 ```
 
 ## Usage
 
 install project files:
-```
-git clone https://github.com/Oussama1403/SystemMonitor
 
 ```
+git clone https://github.com/Oussama1403/SystemMonitor
+```
+
 Run the GUI
 
 ```
 python src/gui/main.py
-
 ```
+
 Run a no-gui script file
 
 ```
 python src/scripts/SystemMonitor.py
-
 ```
 ## Contributing
 
