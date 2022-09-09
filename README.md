@@ -1,5 +1,5 @@
 # SystemMonitor
-<b>Python GUI program to monitor ram and cpu usage along with disk usage.</b>
+<b>Simple python GUI program to monitor ram and cpu usage along with disk usage.</b>
 <p>
   <img  src="https://img.shields.io/github/stars/Oussama1403/SystemMonitor" />
   <img src="https://img.shields.io/github/contributors/Oussama1403/SystemMonitor" />
@@ -13,27 +13,37 @@
   <img  src="https://img.shields.io/github/issues-pr/Oussama1403/SystemMonitor" />
 </p>
 
-![GUI](gui.png)
+![GUI](images/gui.png)
+
 ### Prerequisites
 
-Install psutil module;a cross-platform lib for process and system monitoring in Python and
-Install Pyqt5 module to run the GUI.
+install modules:
 ```
-pip install psutil
+pip install -r requirements.txt
+
 ```
-```
-pip install PyQt5
-```
+
 ## Usage
-In your terminal navigate to the program directory and type:
+
+install project files:
 ```
-python SystemMonitor.py
+git clone https://github.com/Oussama1403/SystemMonitor
+
 ```
-To run the GUI:
+Run the GUI
+
 ```
-python main.py
+python src/gui/main.py
+
+```
+Run a no-gui script file
+
+```
+python src/scripts/SystemMonitor.py
+
 ```
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License

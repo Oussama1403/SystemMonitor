@@ -1,11 +1,11 @@
-from PyQt5 import QtWidgets , QtGui,QtCore
+from PyQt5 import QtWidgets
 from PyQt5.QtCore import QThread, pyqtSignal
 from appui import Ui_MainWindow
 import psutil
 import threading
 import time
 import sys
-import platform,socket,re,uuid,json,logging
+import platform,socket,re,uuid
 
 class MEM(QThread,Ui_MainWindow):
     """
@@ -79,6 +79,7 @@ class MyWindow(QtWidgets.QMainWindow,Ui_MainWindow):
             self.cpu_cores.setText(self.cpu_cores.text()+" "+str(psutil.cpu_count()))
         except:
             self.statusBar.showMessage("Error in getting System informations")
+    
     def StartThread(self):
         self.ram_obj = MEM()
         self.cpu_obj = PROC() 
